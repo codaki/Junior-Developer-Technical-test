@@ -73,3 +73,6 @@ node Ejercicio3.js
 cd ..
 cd .\Section_2\
 node todoApp.js
+
+```
+## Autor [Christopher Iza]
